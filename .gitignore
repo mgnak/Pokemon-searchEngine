@@ -1,0 +1,82 @@
+# ================================
+# POKEMON PROJECT GITIGNORE
+# ================================
+
+# ========== NODE MODULES ==========
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========== FRONTEND ==========
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+frontend/build/
+frontend/.env*
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# ========== BACKEND ==========
+backend/target/
+backend/.gradle
+backend/build/
+backend/.idea/
+backend/*.iml
+backend/*.ipr
+backend/*.iws
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Application properties (confidential)
+backend/src/main/resources/application.properties
+backend/src/main/resources/application-*.properties
+backend/src/main/resources/application-*.yml
+backend/src/main/resources/application-*.yaml
+
+# Keystores and certificates
+backend/*.jks
+backend/*.p12
+backend/*.pfx
+backend/*.cer
+backend/*.crt
+backend/*.key
+
+# Logs
+backend/logs/
+backend/*.log
+
+# ========== COMMON ==========
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+dist/
+build/
+*.jar
+*.war
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
