@@ -6,7 +6,7 @@ A powerful and intuitive search engine for Pokémon data, built with modern web 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-green?style=for-the-badge&logo=springboot)
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)
 ![Maven](https://img.shields.io/badge/Maven-3.8.0-orange?style=for-the-badge&logo=apache-maven)
-![Java](https://img.shields.io/badge/Java-17-red?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk)
 
 ## 🌟 Features
 
