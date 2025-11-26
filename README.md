@@ -15,8 +15,7 @@ A powerful and intuitive search engine for Pokémon data, built with modern web 
 - **JPA/Hibernate**: Efficient data persistence and retrieval
 - **Spring Security**: Secure API endpoints
 - **Caching**: Redis/Ehcache for improved performance
-- **Swagger Documentation**: Interactive API documentation
-- **Database Integration**: MySQL/PostgreSQL support
+- **Database Integration**: MySQL support
 - **Search Optimization**: Advanced search algorithms
 
 ### Frontend (React)
